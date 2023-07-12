@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+#first{
+    color: aqua;
+}
+.first{
+    color: red;
+}
+h1[draggable]{
+    color: purple;
+}
